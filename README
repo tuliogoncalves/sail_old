@@ -73,7 +73,7 @@ VSCode PHP executable Path in docker
 ###
 
 1) Create a file 'php.sh' to /usr/local/bin
-        $ sudo cp ./docker/assets/php.sh /usr/local/bin/php
+        $ sudo cp ./assets/php.sh /usr/local/bin/php
 
 2) Make it executable:
         $ sudo chmod +x /usr/local/bin/php
